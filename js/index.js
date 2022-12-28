@@ -11,3 +11,8 @@ navbar.addEventListener('click', ()=> {
     menu.classList.toggle('active')
     navbar.classList.toggle('fa-times')
 })
+
+window.onscroll = () => {
+    menu.classList.remove('active')
+    navbar.classList.remove('fa-times')
+}
