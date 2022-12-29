@@ -8,9 +8,7 @@
 a {
   text-decoration: none;
 }
-body {
-     height: 500vh;
-}
+
 
 header {
   display: flex;
