@@ -405,7 +405,7 @@ color: #000000;
  }
  .testi-bx-container {
   width: 238px;
-  height: 280px;
+  height: 330px;
   background: #3087E6;
   margin: 20px;
   padding: 20px;
@@ -634,7 +634,7 @@ line-height: 90px;
     align-items: left;
   }
   .testi-text {
-    margin-left: 50px;
+    margin-left: 60px;
   }
   .testi-bx {
     display: flex;
@@ -650,8 +650,11 @@ line-height: 90px;
   .testi-text p {
    width: 477px;
    text-align: left;
-   font-size: 36px;
+   font-size: 30px;
    line-height: 60px;
+  }
+  .testi-bx-container {
+     margin-top: 100px;
   }
 }
 
